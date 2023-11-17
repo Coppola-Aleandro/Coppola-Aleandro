@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Coppola-Aleandro
-- 👀 I am interested in technology, travel, and games
-- 🌱 I’m currently learning React and Flutter.
-- 💞️ I' m looking to collaborate as a Full Stack Developer
-- 📫 How to reach me:
-📧 coppola.aleandro@gmail.com
+- 👋 Ciao, sono Aleandro Coppola - @the.codingsurfer
+- 👀 Apassionato di tecnologia e viaggi
+- 💻 Full stack Developer & Nomade digitale
+- 🚀 Pronto a collaborare
+📧 coppola.aleandro@gmail.com - sviluppo@aleandrocoppola.it
 📱 +39 3203271935
+🌍 aleandrocoppola.it
 
 <!---
 Coppola-Aleandro/Coppola-Aleandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
